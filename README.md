@@ -1,3 +1,3 @@
-# Erronka2Pro
+# Erronka-2Pro
 
 erronka
